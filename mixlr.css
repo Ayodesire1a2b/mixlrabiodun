@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container-fluid{
+    display: flex;
+    gap: 50%;
+    width: 100%;
+}
+
+.firsttext{
+
+    margin-top: 50px;
+    align-items: center;
+    margin-left: 400px;
+    
+
+}
+
+.button{
+   margin-left: 180px;
+   margin-top: 50px;
+   width: 230px;
+   height: 70px;
+   font-size: 30px;
+   color: white;
+   background-color: red;
+   border-radius: 25%;
+   border: none;
+   
+}
+
+.one{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+.pix{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.two{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 150px;
+    gap: 10%;
+    margin-top: 90px;
+}
+
+.three{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 150px;
+    gap: 10%;
+    margin-top: 90px;
+}
+
+.four{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 150px;
+    gap: 10%;
+    margin-top: 90px;
+}
+
+.five{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 150px;
+    gap: 10%;
+    margin-top: 90px;
+}
+
+.code{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+
+.more{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.end{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
